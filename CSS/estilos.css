@@ -1,0 +1,113 @@
+/* GENERAL */ 
+
+body{
+     background-color: #171717; 
+     color: #ffffff; 
+     font-family: Arial, sans-serif; 
+    } 
+    
+    /* NAVBAR */ 
+    
+    .navbar{ 
+        background-color: #171717; 
+    } .navbar-brand{ 
+        color: #ffd23f !important; 
+        font-weight: bold; 
+    } 
+    
+    .nav-link{ 
+        color: #ffffff !important; 
+    } 
+    
+    .nav-link:hover{ 
+        color: #ffd23f !important; 
+    } 
+    
+    /* TITULOS */ 
+    
+    h1,h2,h3{ 
+        color: #ffd23f; font-weight: bold;
+     } 
+     
+     /* TEXTOS */ 
+     
+     .texto-introduccion, .subtitulo, .texto-tabla{ 
+        color: #d6d1ca; 
+    } 
+    
+    /* FORMULARIOS */ 
+    
+    .formulario, 
+    .card-registro{ 
+        background-color: #ffffff; 
+        color: #171717; 
+        padding: 30px; 
+        border-radius: 15px; 
+        box-shadow: 0px 0px 15px rgba(0,0,0,0.4); 
+    } 
+    
+    /* BOTON NARANJA */ 
+    .btn-naranja{ 
+        background-color: #f4511e; 
+        color: #ffffff; 
+        border: none; 
+    } 
+    
+    .btn-naranja:hover{ 
+        background-color: #c9360c; 
+        color: #ffffff; 
+    } 
+    
+    /* CONTACTO */ 
+    .contacto{ 
+        padding: 60px 0; 
+    } 
+    
+    /* TABLA */ 
+    
+    .tabla-seccion{ 
+        padding: 60px 0; 
+    } 
+    
+    .table{ 
+        background-color: #ffffff; 
+    } 
+    
+    /* SITIOS DE INTERES */ 
+    
+    .sitios{ 
+        padding: 60px 0; 
+    
+    } 
+    
+    .sitio-card{ 
+        background-color: #ffffff; 
+        color: #171717; 
+        padding: 25px; 
+        border-radius: 15px; 
+        text-align: center; 
+        height: 100%; 
+    } 
+    
+    .sitio-card h3{ 
+        color: #f4511e; 
+    } 
+    
+    /* REGISTRO */ 
+    .registro{ 
+        padding: 60px 0; 
+    } 
+    
+    /* FOOTER */ 
+    
+    footer{ 
+        background-color: #111111; 
+        color: #ffffff; 
+        text-align: center; 
+        padding: 30px; 
+        margin-top: 40px; 
+    } 
+    
+    footer h3{ 
+        color: #ffd23f; 
+    }
